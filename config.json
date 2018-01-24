@@ -1,0 +1,10 @@
+[
+    {
+        "request": {
+            "path": ".*"
+        },
+        "response": {
+            "status_code": "200"
+        }
+    }
+]
